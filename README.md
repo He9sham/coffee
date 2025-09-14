@@ -1,16 +1,32 @@
-# coffee_app
+# 🚀 Coffee App
 
-A new Flutter project.
+An animated Flutter application that showcases smooth UI interactions and modern design.  
+This project is focused on delivering a clean experience with eye-catching animations ✨.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎥 Demo
 
-A few resources to get you started if this is your first Flutter project:
+![App Demo](demo/app_demo.gif)  
+*The animation above demonstrates the core interactions of the app.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- Smooth and modern animations
+- Responsive design
+- Clean and maintainable code structure
+- Built with Flutter 💙
+
+---
+
+## 🛠️ Technologies Used
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
+
+---
+
+## 📥 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
