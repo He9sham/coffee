@@ -1,4 +1,4 @@
-# 🚀 Coffee App
+# 🚀 My Flutter App
 
 An animated Flutter application that showcases smooth UI interactions and modern design.  
 This project is focused on delivering a clean experience with eye-catching animations ✨.
@@ -29,4 +29,4 @@ This project is focused on delivering a clean experience with eye-catching anima
 ## 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/He9sham/coffee.git
